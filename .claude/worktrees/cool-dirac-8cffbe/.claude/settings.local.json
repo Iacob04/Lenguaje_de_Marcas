@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p /c/Users/alexi/Desktop/TechGear_Entrega)",
+      "Bash(cp /c/Users/alexi/Lenguaje_de_Marcas/.claude/worktrees/cool-dirac-8cffbe/index.html /c/Users/alexi/Desktop/TechGear_Entrega/)",
+      "Bash(cp -r /c/Users/alexi/Lenguaje_de_Marcas/.claude/worktrees/cool-dirac-8cffbe/css /c/Users/alexi/Desktop/TechGear_Entrega/)"
+    ]
+  }
+}

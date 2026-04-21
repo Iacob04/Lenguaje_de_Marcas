@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/alexi/Lenguaje_de_Marcas/**)"
+    ]
+  }
+}
